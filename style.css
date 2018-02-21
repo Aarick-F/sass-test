@@ -1,4 +1,6 @@
 body {
-  color: #222; }
+  background-color: #222; }
+  body h1 {
+    color: #FFF; }
 
 /*# sourceMappingURL=style.css.map */

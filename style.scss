@@ -1,6 +1,10 @@
 $main-color: #222;
-
+$white: #FFF;
 body {
-	color: $main-color;
+	background-color: $main-color;
+
+	h1 {
+		color: $white;
+	}
 }
 
